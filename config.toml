@@ -16,7 +16,7 @@ googleAnalytics = ""
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
   name = "CSU R Collab" # What is your conference called? 
-  description = "FiXME, FIXME. FIXME 20XX" # Where is your conference? What are the dates? 
+  description = "Colorado State University, location and date TBD" # Where is your conference? What are the dates? 
 
   # Link custom assets relative to /static
   custom_css = []
@@ -99,7 +99,7 @@ googleAnalytics = ""
     [[params.team.members]] # create one of these for each of your participants
       name = "Nichole Monhait"
       position = "@RStudio"
-      img = "jane-doe.jpg" # e.g. firstname-lastname.png 
+      img = "nrm.PNG" # e.g. firstname-lastname.png 
       twitter = "@nrmonhait" # handle only. (not a URL, no @)
       github = "github.com/nmonhait" # handle only. (not a URL, no @)
     
@@ -122,26 +122,26 @@ googleAnalytics = ""
   [params.venue]
   enable=true
   title = "Venue"
-  text = "The event will be hosted at [YOUR VENUE](WEBSITE TO YOUR VENUE IF APLICABLE)"
+  text = "The event will be hosted at Colorado State University"
   map = "https://www.google.com/maps/embed?pb&#61;!1m18!1m12!1m3!1d2974.751615491931!2d-87.60315248456163!3d41.790566379229254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e293e7c052a6d%3A0x760f5c0c7107088f!2sThe&#43;University&#43;of&#43;Chicago&#43;Computation&#43;Institute!5e0!3m2!1sen!2sus!4v1545085956300" # Link to a Google map embed of your venue's location. Visit https://support.google.com/maps/answer/144361?co=GENIE.Platform%3DDesktop&hl=en to see how to Embed a Google map
   img = "venue.jpg" # An image of your venue in the static/img folder
 
   # Sponsors section
 
-    [params.sponsors_list]
-      enable = true
+#    [params.sponsors_list]
+#      enable = true
       # Possibility to center items
       #center = true
-      title = "Sponsors"
-      text = "We are extremely grateful to all the sponsors for this year's event. If your organization would like to sponsor FIXME, please email FIXME for a sponsorship prospectus."
+#      title = "Sponsors"
+#      text = "We are extremely grateful to all the sponsors for this year's event. If your organization would like to sponsor FIXME, please email FIXME for a sponsorship prospectus."
 
       # All the sponsors' logos are stored under 'static/img/sponsors'.
       # Replace them with your sponsors's logos.
       # Suggestion: .svg in the size of 280px*80px looks good
       
-      [[params.sponsors]] # create one of these for each of your sponsors. 
-        logo = "coke.png"  # file in static/img/sponsors
-        link = "https://us.coca-cola.com/" # url of the sponsor 
+#      [[params.sponsors]] # create one of these for each of your sponsors. 
+#        logo = "coke.png"  # file in static/img/sponsors
+#        link = "https://us.coca-cola.com/" # url of the sponsor 
 
   # Footer section
   [params.footer]
