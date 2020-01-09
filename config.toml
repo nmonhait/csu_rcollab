@@ -72,8 +72,8 @@ googleAnalytics = ""
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "FIXME" # Your unconf's name here 
-    subtitle = "FIXME 20XX • FIXME • FIXME" #Date, City, State/Country
+    title = "Fort Collins RCollab 2020" # Your unconf's name here 
+    subtitle = "April 2--3, 2020 • Fort Collins • Colorado" #Date, City, State/Country
     # buttonText = "Tell me more"
 
 
