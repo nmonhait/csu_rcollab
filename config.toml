@@ -72,7 +72,7 @@ googleAnalytics = ""
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "Fort Collins RCollab 2020" # Your unconf's name here 
+    title = "Fort Collins RCollab" # Your unconf's name here 
     subtitle = "April 2--3, 2020 • Fort Collins • Colorado" #Date, City, State/Country
     # buttonText = "Tell me more"
 
@@ -102,6 +102,13 @@ googleAnalytics = ""
       img = "nrm.PNG" # e.g. firstname-lastname.png 
       twitter = "@nrmonhait" # handle only. (not a URL, no @)
       github = "github.com/nmonhait" # handle only. (not a URL, no @)
+      
+    [[params.team.members]]
+      name = "Brooke Anderson"
+      position = "Colorado State University"
+      img = "gba.jpg"
+      twitter = "@gbwanderson"
+      github = "github.com/geanders"
     
 #    [[params.team.members]] # create one of these for each of your participants
 #      name = "Firstname Lastname"
@@ -123,7 +130,7 @@ googleAnalytics = ""
   enable=true
   title = "Venue"
   text = "The event will be hosted at Colorado State University"
-  map = "https://www.google.com/maps/embed?pb&#61;!1m18!1m12!1m3!1d2974.751615491931!2d-87.60315248456163!3d41.790566379229254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e293e7c052a6d%3A0x760f5c0c7107088f!2sThe&#43;University&#43;of&#43;Chicago&#43;Computation&#43;Institute!5e0!3m2!1sen!2sus!4v1545085956300" # Link to a Google map embed of your venue's location. Visit https://support.google.com/maps/answer/144361?co=GENIE.Platform%3DDesktop&hl=en to see how to Embed a Google map
+  map = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3030.4251688879312!2d-105.08296524975924!3d40.57636967924555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87694a5792f7eadf%3A0x94a4a0d918c77d73!2sThe%20Oval!5e0!3m2!1sen!2sus!4v1578613079357!5m2!1sen!2sus" # Link to a Google map embed of your venue's location. Visit https://support.google.com/maps/answer/144361?co=GENIE.Platform%3DDesktop&hl=en to see how to Embed a Google map
   img = "venue.jpg" # An image of your venue in the static/img folder
 
   # Sponsors section
