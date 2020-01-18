@@ -98,8 +98,8 @@ googleAnalytics = ""
     
     [[params.team.members]] # create one of these for each of your participants
       name = "Nichole Monhait"
-      position = "@RStudio"
-      img = "nrm.PNG" # e.g. firstname-lastname.png 
+      position = "Sr. Enterprise Advocate @RStudio"
+      img = "nrm.JPG" # e.g. firstname-lastname.png 
       twitter = "@nrmonhait" # handle only. (not a URL, no @)
       github = "github.com/nmonhait" # handle only. (not a URL, no @)
       
