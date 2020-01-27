@@ -82,7 +82,7 @@ googleAnalytics = ""
     enable = true
     title = "About the Fort Collins R Collab" # What is your unconference called, again? 
     # In the text section below, describe your event. What makes your event special? Where it says FIXME, substitute your unconf's name
-    text = "The Fort Collins R Collaborative is part of an R Consortium-funded grant that supports community-led, locally-organized R development events around the world, otherwise known as R Community Collaboratives.\n\n The best part about R is the community. At the Fort Collins R Collab, you'll team up with R users and developers of all skill levels. Together, you will create a valuable data product that will contribute directly to a research team at Colorado State University. Whether you are an experienced developer or an R-user-to-be, you have something valuable to contribute to this event. \n\n If you’re interested in learning more about what you’ll be doing at the event, feel free to reach out to any of the organizers.   "
+    text = "The Fort Collins R Collaborative is part of an R Consortium-funded grant that supports community-led, locally-organized R development events around the world, otherwise known as R Community Collaboratives.\n\n At the Fort Collins R Collab, you'll team up with R users and developers of all skill levels. Together, you will create a valuable data product that will contribute directly to a research team at Colorado State University. Whether you are an experienced developer or an R-user-to-be, you have something to contribute to this event. \n\n If you’re interested in learning more about what you’ll be doing at the event, feel free to reach out to any of the organizers.   "
 
 
   # Team section
