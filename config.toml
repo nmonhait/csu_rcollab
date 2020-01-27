@@ -99,7 +99,7 @@ googleAnalytics = ""
     
     [[params.team.members]] # create one of these for each of your participants
       name = "Nichole Monhait"
-      position = "Sr. Enterprise Advocate @RStudio"
+      position = "RStudio"
       img = "nrm.JPG" # e.g. firstname-lastname.png 
       twitter = "@nrmonhait" # handle only. (not a URL, no @)
       github = "github.com/nmonhait" # handle only. (not a URL, no @)
@@ -112,8 +112,8 @@ googleAnalytics = ""
       github = "github.com/geanders"
     
 #    [[params.team.members]] # create one of these for each of your participants
-#      name = "Firstname Lastname"
-#      position = "Affiliation"
+      name = "Molly Gutilla"
+      position = "Colorado State University"
 #      img = "headshot" # e.g. firstname-lastname.png 
 #      twitter = "twitterhandle" # handle only. (not a URL, no @)
 #      github = "githubhandle" # handle only. (not a URL, no @)
@@ -124,7 +124,7 @@ googleAnalytics = ""
   enable=true
   title = "Join us!"
   # describe how your event will take in participants. 
-  text = "FIXME"
+  text = "Applications for the For Collins R Collab will open soon! The application form should take around 15-30 minutes to fill out and will help us gauge your interest and involvement in the R community. The deadline for applications is midnight MST on March 2, 2020 and we plan to notify participants by March 10, 2020."
 
 # Venue section  
   [params.venue]
