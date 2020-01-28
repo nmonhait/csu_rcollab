@@ -111,7 +111,7 @@ googleAnalytics = ""
       twitter = "@gbwanderson"
       github = "github.com/geanders"
     
-#    [[params.team.members]] # create one of these for each of your participants
+    [[params.team.members]] # create one of these for each of your participants
       name = "Molly Gutilla"
       position = "Colorado State University"
 #      img = "headshot" # e.g. firstname-lastname.png 
