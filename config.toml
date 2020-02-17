@@ -124,7 +124,7 @@ googleAnalytics = "UA-36719749-4"
   enable=true
   title = "Join us!"
   # describe how your event will take in participants. 
-  text = "Applications for the For Collins R Collab are open! The application form should take around 15--20 minutes to fill out and will help us gauge your interest and involvement in the R community. The deadline for applications is midnight MST on March 6, 2020 and we plan to notify participants by March 13, 2020."
+  text = "[Applications](https://nmonhait.github.io/csu_rcollab/apply) for the For Collins R Collab are open! The application form should take around 15--20 minutes to fill out and will help us gauge your interest and involvement in the R community. The deadline for applications is midnight MST on March 6, 2020 and we plan to notify participants by March 13, 2020."
 
 # Venue section  
   [params.venue]
