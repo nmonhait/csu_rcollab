@@ -154,7 +154,7 @@ googleAnalytics = "UA-36719749-4"
   [params.footer]
     enable = true
     copyright = "Published under the Apache License 2.0."
-    text = "[Contact us](mailto:corcollab@gmail.com) for more information about the event. Because we want to make sure everyone has a safe and comfortable experience, this event follows a code of conduct. This page is available at [this repo](https://github.com/nmonhait/csu_rcollab). Corrections, changes, and suggestions for improvement are welcome as pull requests."
+    text = "[Contact us](mailto:corcollab@gmail.com) for more information about the event. Because we want to make sure everyone has a safe and comfortable experience, this event follows a (code of conduct)[https://nmonhait.github.io/csu_rcollab/coc]. This page is available at [this repo](https://github.com/nmonhait/csu_rcollab). Corrections, changes, and suggestions for improvement are welcome as pull requests."
 
 # Not used
  #   [[params.footer.quicklinks]]
