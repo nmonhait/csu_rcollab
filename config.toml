@@ -43,7 +43,7 @@ googleAnalytics = "UA-36719749-4"
   # Navigation
   [params.navigation]
 #    brand = "FIXME" # Your organization/company/school that is hosting the conf. Or just your unconf's name
-    logo = "logo.png" # Your brand logo stored in img/
+    logo = "corcollab_logo.png" # Your brand logo stored in img/
     about = "What"  # These are the header links.  
     team = "Who"
     joinus="Join Us"
