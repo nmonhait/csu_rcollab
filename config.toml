@@ -47,7 +47,7 @@ googleAnalytics = "UA-36719749-4"
     about = "What"  # These are the header links.  
     team = "Who"
     joinus="Join Us"
-#    venue = "Venue"
+    venue = "Venue"
     #sponsors = "Sponsors"
     contact = "Contact"
 
