@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Fort Collins R Collab</title>
-    <link>/tags/</link>
+    <link>https://nmonhait.github.io/csu_rcollab/tags/</link>
     <description>Recent content in Tags on Fort Collins R Collab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nmonhait.github.io/csu_rcollab/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
