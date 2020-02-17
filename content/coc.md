@@ -12,7 +12,7 @@ Fort Collins R Collaborative participants agree to:
 
 ## Need Help?
 
-The Fort Collins R Collaborative Code of Conduct Committee includes Brooke Anderson and Nichole Monhait. If you experience or witness unacceptable behavior, or have any other concerns, please submit a report to the Committee using [this form](CREATE A GOOGLE OR OTHER FORM TO LINK TO). You may also email to the full Committee at corcollab [at] gmail.com, reach out to them individually or to venue staff or security who will be present all through the event.
+The Fort Collins R Collaborative Code of Conduct Committee includes Brooke Anderson and Nichole Monhait. If you experience or witness unacceptable behavior, or have any other concerns, please submit a report to the Committee using [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZxYvyV-dF7t24j1NNxguzs04rXTwCmpJfhsaeOjVn3jPw-w/viewform?usp=sf_link). You may also email to the full Committee at corcollab [at] gmail.com, reach out to them individually or to venue staff or security who will be present all through the event.
 
 If any attendee engages in harassing behavior, the Committee may take any lawful action they deem appropriate, including but not limited to warning the offender or asking the offender to leave the conference. (If you feel you have been unfairly accused of violating this code of conduct, you should report it with a concise description of your grievance.)
 
