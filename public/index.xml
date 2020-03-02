@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Colorado R Collab</title>
-    <link>/</link>
+    <link>https://nmonhait.github.io/csu_rcollab/</link>
     <description>Recent content on Colorado R Collab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nmonhait.github.io/csu_rcollab/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/coc/</link>
+      <link>https://nmonhait.github.io/csu_rcollab/coc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/coc/</guid>
+      <guid>https://nmonhait.github.io/csu_rcollab/coc/</guid>
       <description>Code of conduct The organizers of the Colorado R Collaborative are committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/terms/</link>
+      <link>https://nmonhait.github.io/csu_rcollab/terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/terms/</guid>
+      <guid>https://nmonhait.github.io/csu_rcollab/terms/</guid>
       <description>Colorado R Collaborative terms and conditions These terms and conditions apply to the Colorado R Collab. The purpose of the Event is to encourage development of open source tools and grow a community of open source developers and mentors around the R programming language. It is a condition of participation that these terms and conditions are accepted by the Participant prior to the Event. Please read them carefully.
 Colorado R Collaborative participants agree to:</description>
     </item>

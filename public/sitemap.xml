@@ -3,25 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/coc/</loc>
+    <loc>https://nmonhait.github.io/csu_rcollab/coc/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/terms/</loc>
+    <loc>https://nmonhait.github.io/csu_rcollab/terms/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://nmonhait.github.io/csu_rcollab/categories/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://nmonhait.github.io/csu_rcollab/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://nmonhait.github.io/csu_rcollab/tags/</loc>
   </url>
   
 </urlset>
