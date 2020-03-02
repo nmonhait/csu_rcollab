@@ -7,8 +7,9 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Overpass","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 16px;
+    font-family: "Fira Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 22px;
+    line-height: 36px;
 }
 
 html {
@@ -21,19 +22,19 @@ html {
 }
 
 .text-primary {
-    color: #000000;
+    color: #428BCA;
 }
 
 p {
     margin-bottom: 15px;
     margin-top: 10px;
     text-transform: none;
-    font-family: "Overpass","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 18px;
-    line-height:30px;
+    font-family: "Fira Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 22px;
+    line-height:36px;
     font-weight: 400;
     text-align: left;
-    color: #000000;
+    color: #183244;
 }
 
 p.large {
@@ -49,14 +50,15 @@ a.active {
 }
 
 a {
-    color: #eeeeee;
+    color: #4A6792;
+    text-decoration: underline;
 }
 
 a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #FEEDB1;
+    color: #D71920;
 }
 
 h1,
@@ -65,7 +67,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Overpass","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Fira Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
 
@@ -83,11 +85,11 @@ h2 {
 }
 
 .bg-light-gray {
-    background-color: #fff;
+    background-color: #f7f7f7;
 }
 
 .bg-darkest-gray {
-    background-color: #222;
+    background-color: #4A6792;
 }
 
 .bg-darkest-gray p {
@@ -95,11 +97,11 @@ h2 {
 }
 
 .bg-darkest-gray a {
-    color: #FEEDB1;
+    color: #C7EAFB;
 }
 
 .bg-joinus {
-    background-color: #94201D;
+    background-color: #428BCA;
 }
 
 .bg-joinus p {
@@ -111,16 +113,16 @@ h2 {
 }
 
 .bg-sponsors {
-    background-color: #fff;
+    background-color: #EFF8FB;
 }
 
 .btn-primary {
-    border-color: #94201D;
+    border-color: #4A6792;
     text-transform: uppercase;
-    font-family: "Overpass","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Fira Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #fff;
-    background-color: #94201D;
+    background-color: #4A6792;
 }
 
 .btn-primary:hover,
@@ -154,25 +156,25 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    border-color: #94201D;
-    background-color: #94201D;
+    border-color: #4A6792;
+    background-color: #4A6792;
 }
 
 .btn-primary .badge {
-    color: #94201D;
+    color: #4A6792;
     background-color: #fff;
 }
 
 .btn-xl {
     padding: 20px 40px;
-    border-color: #94201D;
+    border-color: #4A6792;
     border-radius: 3px;
     text-transform: uppercase;
-    font-family: "Overpass","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Fira Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #94201D;
+    background-color: #4A6792;
 }
 
 .btn-xl:hover,
@@ -206,28 +208,28 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-    border-color: #94201D;
-    background-color: #94201D;
+    border-color: #4A6792;
+    background-color: #4A6792;
 }
 
 .btn-xl .badge {
     color: #555;
-    background-color: #94201D;
+    background-color: #4A6792;
 }
 
 .navbar-default {
-    border-color: ##94201D;
-    background-color: #eee;
+    border-color: #4A6792;
+    background-color: #EFF8FB;
 }
 
 .navbar-default .navbar-nav > li > a {
-  color: #94201D;
+  color: #4A6792;
   background-color: #FFF;
-  border-color: #94201D;
+  border-color: #4A6792;
 }
 .navbar-default .navbar-brand {
-    font-family: "Overpass","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #94201D;
+    font-family: "Fira Sans","Helvetica Neue",Helvetica,Arial,cursive;
+    color: #4A6792;
     height: 50px;
 }
 
@@ -235,7 +237,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #94201D;
+    color: #4A6792;
 }
 
 .navbar-brand>img {
@@ -266,8 +268,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle {
-    border-color: rgba(255,255,255,.02);
-    background-color: #94201D;
+    border-color: #4A6792;
+    background-color: #4A6792;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -277,9 +279,9 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .nav li a {
     text-transform: uppercase;
-    font-family: "Overpass","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Fira Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     text-decoration: none;
-    border: 1px solid #94201D;
+    border: 1px solid #4A6792;
     padding: 0.4rem 0.8rem;
     margin: 5px;
     border-radius: 4px;
@@ -294,7 +296,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    background: #94201D;
+    background: #4A6792;
     color: #fff;
 }
 
@@ -333,7 +335,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #eee;
+        background-color: #EFF8FB;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -343,9 +345,9 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #1E0706;
+    color: #2c3e50;
     background-attachment: scroll;
-    font-family: "Overpass","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Fira Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: 100px;
@@ -361,17 +363,17 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
-    font-family: "Overpass","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Fira Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 50px;
     line-height: 50px;
-    font-weight: 700;
+    font-weight: 500;
 }
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
-    font-family: "Overpass","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Fira Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 20px;
-    font-weight: 500;
+    font-weight: 400;
     line-height: 20x;
 }
 
@@ -383,24 +385,24 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
-        font-family: "Overpass","Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-family: "Fira Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 70px;
-        font-weight: 700;
+        font-weight: 500;
         line-height: 70px;
     }
 
     header .intro-text .intro-heading {
         margin-bottom: 50px;
-        font-family: "Overpass","Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-family: "Fira Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 25px;
-        font-weight: 500;
+        font-weight: 400;
         line-height: 25px;
     }
 }
 
 section {
     padding: 30px 0;
-    background: #E3C5C4;
+    background: #C7EAFB;
     margin-top: 0px;
     margin-bottom: 0px;
 }
@@ -415,9 +417,9 @@ section h3.section-subheading {
     margin-bottom: 25px;
     margin-top: 20px;
     text-transform: none;
-    font-family: "Overpass","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 18px;
-    line-height:30px;
+    font-family: "Fira Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 22px;
+    line-height:36px;
     font-weight: 400;
     text-align: left;
     color: #183244;
@@ -426,9 +428,9 @@ section h3.section-subheading {
 
 #joinus {
     text-transform: none;
-    font-family: "Overpass","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 18px;
-    line-height:30px;
+    font-family: "Fira Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 22px;
+    line-height:36px;
     font-weight: 400;
     text-align: left;
     color: #fff;
@@ -513,7 +515,7 @@ section h3.section-subheading {
 
 #portfolio .portfolio-item .portfolio-caption p {
     margin: 0;
-    font-family: "Overpass","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Fira Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
     font-style: italic;
 }
@@ -594,7 +596,7 @@ section h3.section-subheading {
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #94201D;
+    background-color: #4A6792;
 }
 
 .timeline>li .timeline-image h4 {
@@ -759,6 +761,11 @@ section h3.section-subheading {
 .team-member p {
     margin-top: 0;
 }
+
+.team-member a {
+  text-decoration: none;
+}
+
 .team-member h3 {
     text-transform: none;
     font-weight: 600;
@@ -859,34 +866,34 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
-    border-color: #94201D;
+    border-color: #4A6792;
     box-shadow: none;
 }
 
 section#contact::-webkit-input-placeholder {
     text-transform: uppercase;
-    font-family: "Overpass","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Fira Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
 section#contact:-moz-placeholder {
     text-transform: uppercase;
-    font-family: "Overpass","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Fira Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
 section#contact::-moz-placeholder {
     text-transform: uppercase;
-    font-family: "Overpass","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Fira Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
 section#contact:-ms-input-placeholder {
     text-transform: uppercase;
-    font-family: "Overpass","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Fira Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
@@ -907,7 +914,7 @@ footer {
 footer span.copyright {
     text-transform: uppercase;
     text-transform: none;
-    font-family: "Overpass","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Fira Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 40px;
 }
 
@@ -915,7 +922,7 @@ footer ul.quicklinks {
     margin-bottom: 0;
     text-transform: uppercase;
     text-transform: none;
-    font-family: "Overpass","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Fira Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 40px;
 }
 
@@ -942,7 +949,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-    background-color: #94201D;
+    background-color: #4A6792;
 }
 
 .btn:focus,
@@ -974,7 +981,7 @@ ul.social-buttons li a:active {
 
 .portfolio-modal .modal-content p.item-intro {
     margin: 20px 0 30px;
-    font-family: "Overpass","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Fira Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
     font-style: italic;
 }
@@ -1030,13 +1037,13 @@ ul.social-buttons li a:active {
 
 ::-moz-selection {
     text-shadow: none;
-    background: #94201D;
+    background: #4A6792;
     color: #ddd;
 }
 
 ::selection {
     text-shadow: none;
-    background: #94201D;
+    background: #4A6792;
     color: #ddd;
 }
 
@@ -1049,7 +1056,7 @@ img::-moz-selection {
 }
 
 body {
-    webkit-tap-highlight-color: #94201D;
+    webkit-tap-highlight-color: #4A6792;
 }
 
 /* Wrapping images for venue section */

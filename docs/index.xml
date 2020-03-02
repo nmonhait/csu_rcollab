@@ -12,57 +12,11 @@
     
     <item>
       <title></title>
-      <link>https://nmonhait.github.io/csu_rcollab/application/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nmonhait.github.io/csu_rcollab/application/</guid>
-      <description>Apply for the Fort Collins R Collaborative 2020 Please use the following form to apply for the Fort Collins R Collaborative 2020.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nmonhait.github.io/csu_rcollab/apply/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nmonhait.github.io/csu_rcollab/apply/</guid>
-      <description>Apply for the Fort Collins R Collaborative 2020 Please use the following form to apply for the Fort Collins R Collaborative 2020.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nmonhait.github.io/csu_rcollab/apply/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nmonhait.github.io/csu_rcollab/apply/</guid>
-      <description>  ozunconf18 html{ margin: 0; height: 100%; overflow: hidden; } iframe{ position: absolute; left:0; right:0; bottom:0; top:0; border:0; }        </description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://nmonhait.github.io/csu_rcollab/coc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nmonhait.github.io/csu_rcollab/coc/</guid>
       <description>Code of conduct The organizers of the Colorado R Collaborative are committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nmonhait.github.io/csu_rcollab/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nmonhait.github.io/csu_rcollab/projects/</guid>
-      <description> YOUR EVENT NAME HERE Projects  ❓ project name If there are any projects that you know are missing please fork this repo on GitHub, make changes to this document (content/projects.Rmd), and then send a pull request.
-  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nmonhait.github.io/csu_rcollab/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nmonhait.github.io/csu_rcollab/projects/</guid>
-      <description>R OpenSci ozunconference 2018 Projects ❓ 📝 ✒️ tl - tl;dr documentation for r functions 🎓📄vitae - automated CV functions and templates 🏫 💹 ✨learngganimate - a guide to all things gganimate 📚 👶 📛ozbabynames - popular Australian baby names by sex, state and year 📖 🔍simpletextr - makes Natural Language Processing simple 🌎 🔁 🌍geoflowr - animating geographical flows 💻 🔍jerbs - scraping and tidying Department of employment and jobs website 🗨️reviewer - better track changes and reviewing experience in R markdown 📝 🌈genderrecoder - helpers for managing complex free-text gender entry data 👥➡️ 👩 👨 🌈 📦 🐋containerit - package your analysis with Docker 🚶rwalkable - how walkable is a neighbourhood 🐦 💬UntweetdAus - tweeting underappreciated endangered species 🐜 🐛 🐍 📖↔️ 📝syn - a synonym package 📋 📎bindertools - Easy initiation of R binders on github 📂  If there are any projects that you know are missing please fork this document on GitHub, make changes, and then send a pull request.</description>
     </item>
     
     <item>
@@ -73,24 +27,6 @@
       <guid>https://nmonhait.github.io/csu_rcollab/terms/</guid>
       <description>Colorado R Collaborative terms and conditions These terms and conditions apply to the Colorado R Collab. The purpose of the Event is to encourage development of open source tools and grow a community of open source developers and mentors around the R programming language. It is a condition of participation that these terms and conditions are accepted by the Participant prior to the Event. Please read them carefully.
 Colorado R Collaborative participants agree to:</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nmonhait.github.io/csu_rcollab/yay/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nmonhait.github.io/csu_rcollab/yay/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nmonhait.github.io/csu_rcollab/yay/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nmonhait.github.io/csu_rcollab/yay/</guid>
-      <description>  rOpenSci ozunconf 2017 info html{ margin: 0; height: 100%; overflow: hidden; } iframe{ position: absolute; left:0; right:0; bottom:0; top:0; border:0; }        </description>
     </item>
     
   </channel>
