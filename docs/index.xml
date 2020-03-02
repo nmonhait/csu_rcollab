@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fort Collins R Collab</title>
+    <title>Colorado R Collab</title>
     <link>https://nmonhait.github.io/csu_rcollab/</link>
-    <description>Recent content on Fort Collins R Collab</description>
+    <description>Recent content on Colorado R Collab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -43,7 +43,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nmonhait.github.io/csu_rcollab/coc/</guid>
-      <description>Code of conduct The organisers of the Fort Collins R Collaborative are committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media.</description>
+      <description>Code of conduct The organizers of the Colorado R Collaborative are committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media.</description>
     </item>
     
     <item>
@@ -71,7 +71,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nmonhait.github.io/csu_rcollab/terms/</guid>
-      <description>rOpenSci unconf terms and conditions These terms and conditions apply to the YOUR EVENT NAME HERE (“Event”) hosted by and on behalf of YOUR ORGANIZATION (YOUR ORG&#39;s ADDRESS). The purpose of the Event is to encourage development of open source tools and grow a community of open source developers and mentors around the R programming language. It is a condition of participation that these terms and conditions are accepted by the Participant prior to the Event.</description>
+      <description>Colorado R Collaborative terms and conditions These terms and conditions apply to the Colorado R Collab. The purpose of the Event is to encourage development of open source tools and grow a community of open source developers and mentors around the R programming language. It is a condition of participation that these terms and conditions are accepted by the Participant prior to the Event. Please read them carefully.
+Colorado R Collaborative participants agree to:</description>
     </item>
     
     <item>

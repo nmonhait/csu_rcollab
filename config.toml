@@ -3,7 +3,7 @@ baseurl = "https://nmonhait.github.io/csu_rcollab/" # what is your website's url
 canonifyurls = true
 relativeurls = true
 languageCode = "en-us"
-title = "Fort Collins R Collab" # what is your conference called? 
+title = "Colorado R Collab" # what is your conference called? 
 location = "Fort Collins, CO" # When and where is your conference?
 theme = "hugo-ropensci-theme"
 publishDir = "docs"
@@ -15,7 +15,7 @@ googleAnalytics = "UA-36719749-4"
 [params]
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "Fort Collins R Collab" # What is your conference called? 
+  name = "Colorado R Collab" # What is your conference called? 
   description = "Colorado State University, April 2-3, 2020" # Where is your conference? What are the dates? 
 
   # Link custom assets relative to /static
@@ -72,7 +72,7 @@ googleAnalytics = "UA-36719749-4"
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "Fort Collins R Collab" # Your unconf's name here 
+    title = "Colorado R Collab" # Your unconf's name here 
     subtitle = "April 2--3, 2020 • Fort Collins • Colorado" #Date, City, State/Country
     # buttonText = "Tell me more"
 
@@ -80,9 +80,9 @@ googleAnalytics = "UA-36719749-4"
    # About section
    [params.about]
     enable = true
-    title = "About the Fort Collins R Collab" # What is your unconference called, again? 
+    title = "About the Colorado R Collab" # What is your unconference called, again? 
     # In the text section below, describe your event. What makes your event special? Where it says FIXME, substitute your unconf's name
-    text = "The Fort Collins R Collaborative is part of an [R Consortium-funded grant](https://www.r-consortium.org/projects/awarded-projects) that supports community-led, locally-organized R development events around the world, otherwise known as R Community Collaboratives.\n\n At the Fort Collins R Collab, you'll team up with R users and developers of all skill levels. Together, you will create a valuable data product that will contribute directly to a research team at Colorado State University. \n\n This year's theme will be **Sports and Movement**, and participants at the event will work on developing R code and methods to explore and analyze data on this topic contributed by researchers from Colorado State University. Whether you are an experienced developer or an R-user-to-be, you have something to contribute to this event. Our event is open to a wide range of experience levels and attendee backgrounds, and we seek to encourage diverse groups to contribute to the larger R community. \n\n If you’re interested in learning more about what you’ll be doing at the event, take a look at the schedule for other R Collaborative events, including [last year's Chicago R Collaborative](https://github.com/chirunconf/chirunconf19/wiki/Schedule), peruse our [Code of Conduct](https://nmonhait.github.io/csu_rcollab/coc), or reach out to corcollab [at] gmail.com if you have questions!   "
+    text = "The Colorado R Collaborative is part of an [R Consortium-funded grant](https://www.r-consortium.org/projects/awarded-projects) that supports community-led, locally-organized R development events around the world, otherwise known as R Community Collaboratives.\n\n At the Colorado R Collab, you'll team up with R users and developers of all skill levels. Together, you will create a valuable data product that will contribute directly to a research team at Colorado State University. \n\n This year's theme will be **Sports and Movement**, and participants at the event will work on developing R code and methods to explore and analyze data on this topic contributed by researchers from Colorado State University. Whether you are an experienced developer or an R-user-to-be, you have something to contribute to this event. Our event is open to a wide range of experience levels and attendee backgrounds, and we seek to encourage diverse groups to contribute to the larger R community. \n\n If you’re interested in learning more about what you’ll be doing at the event, take a look at the schedule for other R Collaborative events, including [last year's Chicago R Collaborative](https://github.com/chirunconf/chirunconf19/wiki/Schedule), peruse our [Code of Conduct](https://nmonhait.github.io/csu_rcollab/coc), or reach out to corcollab [at] gmail.com if you have questions!   "
 
 
   # Team section
